@@ -22,5 +22,5 @@ The QA generation app is designed to:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/Question-Answer-Generation-App-using-Mistral-7B.git
+   git clone https://github.com/Vipul251/QA-Gen-App-Mistral.git
    cd Question-Answer-Generation-App-using-Mistral-7B
